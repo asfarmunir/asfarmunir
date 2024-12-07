@@ -81,8 +81,8 @@
 
 
 ## 🚀 About Me
-Hello there! My name is Abdullah Bin Arshad, and I'm a Final Year Software Engineering student at Air University, Islamabad. I am passionate about Full stack development and enjoy to create amazing web applications. In Late 2021, I began my journey of learning web development through various online resources, custom projects. Dive deeper into the latest web technologies including front-end library React Js, and Back-end technologies like Node Js, Express Js, NestJS, MongoDB, PostgreSQL (as Database).
+Hello! I'm Asfar Munir Asfi, a Final Year Computer Science student at Air University, Islamabad. I am passionate about Full Stack Development and enjoy crafting exceptional web applications. My journey into web development began in early 2021 through various online resources and custom projects. I continually dive into the latest web technologies, including front-end libraries and frameworks like React.js, Framer, and Next.js, as well as back-end technologies such as Node.js, Express.js, NestJS, MongoDB, and Firebase.
 
-I strive to deliver beyond constraints and bring my best to every project. Whether it's designing a responsive layout or optimizing website speed, I am always up for a challenge. My GitHub repository showcases some of my personal and professional projects that I have worked on, using the latest web technologies.
+I am committed to delivering results beyond expectations and bring my best effort to each project. Whether it's designing a responsive layout or optimizing website performance, I embrace every challenge. You can explore my GitHub repository, where I showcase a selection of my personal and professional projects, all built using cutting-edge web technologies.
 
-Feel free to browse through my projects and connect with me on LinkedIn to discuss new opportunities or to collaborate on a project. Thank you for visiting my profile!
+Feel free to check out my work and connect with me on LinkedIn for potential collaborations or new opportunities. Thank you for visiting my profile!
