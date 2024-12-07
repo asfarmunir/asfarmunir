@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abdullah Bin Arshad</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Asfar Munir Asfi</h1>
+<h3 align="center">A Passionate Web Developer </h3>
 
 <img align = "right" alt = "coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-arshad03&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-arshad03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asfarmunir&label=Profile%20views&color=0e75b6&style=flat" alt="asfarmunir" /> </p>
 
 
-- 🏫 I’m currently Associate Software Engineer at Futurenostics, Islamabad**
+- 🏫 I’m currently working as a senior web delveloper at Splenify Islamabad and Zendev Soltutions.
 
 - 🌱 Proficient Full Stack Developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdullah-Arshad03/](https://github.com/Abdullah-Arshad03)
+- 👨‍💻 All of my projects are available at [https://github.com/asfarmunir/](https://github.com/asfarmunir)
 
 - 💬 Ask me about **JavaScript, React Js, Next Js, Node Js, Express Js, Nest JS, MongoDb, PostgreSQL, TypeOrms**
 
-- 📫 How to reach me **abdullahharshad003@gmail.com**
+- 📫 How to reach me **asfarma2815@gmail.com**
 
--  Hobbies. **I love exploring new things and expanding my knowledge.**
+-  Hobbies. **I love creating innovative and futuristic frontends for websites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
