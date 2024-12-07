@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-bin-arshad-6111a4241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-bin-arshad-6111a4241/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asfar-munir-asfi-bb5237234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asfar-munir-asfi-bb5237234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,9 +75,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-arshad03&show_icons=true&locale=en&layout=compact" alt="abdullah-arshad03" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-arshad03&show_icons=true&locale=en" alt="abdullah-arshad03" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-arshad03&" alt="abdullah-arshad03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asfarmunir&show_icons=true&locale=en&layout=compact" alt="asfarmunir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asfarmunir&show_icons=true&locale=en" alt="asfarmunir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asfarmunir&" alt="asfarmunir" /></p>
 
 
 ## 🚀 About Me
